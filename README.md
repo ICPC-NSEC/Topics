@@ -169,5 +169,5 @@ Here are the topics we included in this curriculum.
 
 ### [Contributers](https://github.com/NAU-ACM/ACM-ICPC-Preparation/graphs/contributors)
 
-###### A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
+###### A [Leoperon](https://github.com/Leoperon) Project
 
